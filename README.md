@@ -3,7 +3,6 @@
 This is a event and email sample.
 
 ### How to run:
-
 ```
 git clone https://github.com/numanstc/event-demo.git 
 cd event-demo
